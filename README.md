@@ -21,6 +21,9 @@
 ![Zod](https://img.shields.io/badge/-Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 
 # About
+This project is inspired from Sekaha's http://github.com/sekaha/kiakl. It seeks to obtain real-world data concerning alt keyboard layouts and their effects. Currently a WIP.
+
+---Rest of the monkeytype stuff---
 
 Monkeytype is a minimalistic and customizable [typing test](https://www.monkeytype.com). It features many test modes, an account system to save your typing speed history, and user-configurable features such as themes, sounds, a smooth caret, and more. Monkeytype attempts to emulate a natural typing experience during a typing test by unobtrusively presenting the text prompts and displaying typed characters in place, providing straightforward, real-time feedback on typos, speed, and accuracy.
 
